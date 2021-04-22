@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Robot
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Robot\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=a\ b\ c
+comment1.target=Robot(int,\ int,\ int)
+comment2.params=a\ b\ c
+comment2.target=int\ numeroMayor(int,\ int,\ int)
+comment3.params=a\ b\ c
+comment3.target=int\ numeroMenor(int,\ int,\ int)
+comment4.params=a\ b\ c
+comment4.target=int\ nuemeroMedio(int,\ int,\ int)
+numComments=5

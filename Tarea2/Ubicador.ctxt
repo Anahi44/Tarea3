@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Ubicador
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Ubicador\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=punto
+comment1.target=Ubicador(Punto)
+comment2.params=x\ y
+comment2.target=Ubicador(int,\ int)
+comment3.params=punto
+comment3.target=java.lang.String\ indicarCuadrante(Punto)
+numComments=4

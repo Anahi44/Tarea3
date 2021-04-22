@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Matematico
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Matematico\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=i\ a\ c\ d
+comment1.target=Matematico(Robot,\ Cuadrado,\ Ubicador,\ Calculador)
+comment2.params=area
+comment2.target=double\ cuadrado(Cuadrado)
+numComments=3

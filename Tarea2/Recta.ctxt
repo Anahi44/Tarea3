@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Recta
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Recta\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=punto
+comment1.target=Recta(Punto)
+comment2.params=otro
+comment2.target=java.lang.String\ ecuacionRecta(Punto)
+numComments=3
